@@ -192,8 +192,8 @@
         "masterRules": [3, 4, 5]
     },
     {
-        "name": "Pneumonia",
-        "deck": "Pneumonia",
+        "name": "Test",
+        "deck": "Test",
         "difficulty": 3,
         "masterRules": [3, 4, 5]
     }
